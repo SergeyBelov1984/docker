@@ -1,0 +1,10 @@
+.InputForm {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  gap: 3px;
+  font-size: smaller;
+}
+.button {
+  background-color: rgb(24, 230, 127);
+}
